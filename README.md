@@ -1,5 +1,5 @@
-# Procedimentos UNIX
-Este repositório foi criado com o objetivo de armazenar todos os procedimentos necessários para soluções de falhas, instalação de serviços e configurações em geral durante minhas atividades relacionadas a Sysadmin. Ele servirá como uma fonte de informação essencial para ajudar todos a realizar suas atividades com mais eficiência e rapidez.
+# UNIX
+Criado com o objetivo de armazenar todos os procedimentos necessários para soluções de falhas, instalação de serviços e configurações em geral durante minhas atividades relacionadas a Sysadmin. Ele servirá como uma fonte de informação essencial para ajudar todos a realizar suas atividades com mais eficiência e rapidez.
 
 ### 🤝 Suporte/Contato
 
