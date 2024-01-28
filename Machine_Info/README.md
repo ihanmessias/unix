@@ -1,4 +1,4 @@
-# 💻 Machine
+# 💻 Machine Info:
 Esse scritp permite automatizar a verificação de informações em vários servidores e gerar um arquivo csv com as informações coletadas para facilitar a análise e tomada de decisão.
 
 ## 📜 Nota

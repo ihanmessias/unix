@@ -1,5 +1,8 @@
-# 💻 Machine
-Esse scritp permite automatizar a verificação de informações em vários servidores e gerar um arquivo csv com as informações coletadas para facilitar a análise e tomada de decisão.
+# 💻 Machine Info Service
+Esse scritp permite automatizar a verificação de informações de serviços em vários servidores e gerar um arquivo csv com as informações coletadas para facilitar a análise e tomada de decisão.
+(**Exemplo utilizando Samba**)
+
+*Necessario conhecimento avançado em modificar os comandos para funcionamento em serviços diferentes, qualquer dúvida entrar em contato via email* 
 
 ## 📜 Nota
 - Em falha de ping as informações vão retornar "-" enquanto em falha de acesso é retornado "?"
